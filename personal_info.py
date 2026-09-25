@@ -1,0 +1,12 @@
+name = input("Enter your name:")
+age = int(input("Enter your age:"))
+height = float(input("Enter your height:"))
+university = input("Enter your university:")
+course = input("Enter your course:")
+print("YOUR INFORMATION")
+print("Name:",name)
+print("Age:",age)
+print("Height",height)
+print("University",university)
+print("Course:",course)
+
